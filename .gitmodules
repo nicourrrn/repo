@@ -1,0 +1,3 @@
+[submodule "nohang"]
+	path = nohang
+	url = https://aur.archlinux.org/nohang-git.git
